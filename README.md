@@ -1,5 +1,14 @@
-Rock, Paper, Scissors
+# Let's Play: Rock, Paper, Scissors
 
-This project is the "rock, paper, scissors" game. The minimalistic layout makes the webpage user-friendly and simple to use. It's also built with flexibility in mind so that it can render across different devices.
+An interactive 'rock, paper, scissors' game where the user plays against the computer. The game also includes a scoreboard to track score. 
+The webpage has a simple layout making it user-friendly and easy to play. It's also built with flexibility in mind so that it can render across different devices.
 
-Created with knowledge of Javascript, HTML, CSS, and DOM manipulation.
+## Live Demo
+See live demo [here](https://minteapixel.github.io/rock-paper-scissors/)
+
+## Built with
++ HTML/CSS
++ Javascript
+
+## Author
++ Eileen Lin - [Minteapixel](https://github.com/minteapixel/)
